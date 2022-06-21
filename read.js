@@ -7,7 +7,7 @@ let getOneByKey = function (){
     var params = {
         TableName : "users",
         Key: {
-            "email_id":"akhil.kanduri179@gmail.com"
+            "email_id":"ththht"
         }
     };
 
