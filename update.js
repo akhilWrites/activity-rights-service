@@ -1,8 +1,6 @@
 const DYNAMODB = require('./config');
 
-
 let DC =  new DYNAMODB.DynamoDB.DocumentClient();
-
 
 let modify = function(){
     var params = {
